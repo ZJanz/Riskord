@@ -7,7 +7,7 @@ function App() {
       <div className="app">
       
       <Sidebar />
-      {/* <Chat /> */}
+      <Chat />
       </div>
   );
 }
